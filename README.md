@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋</h1>
 </div>
 <img src="https://github.com/user-attachments/assets/3c592633-2e2c-4c09-85ae-9fdcf89fca4e">
-<br>
+
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning about TypeScript, Angular and IonicFramework.
 - 📫 How to reach me: otilianicola94@gmail.com
