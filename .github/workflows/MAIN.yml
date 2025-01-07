@@ -15,7 +15,7 @@ jobs:
 
       # 2. Generamos el gif y el svg de la serpiente
       - name: Generate Snake GIF and SVG
-        uses: Platane/snk@master  # Cambié la acción a una versión más estable
+        uses: Platane/snk@v3  # Cambié la acción a una versión más estable
         id: snake-gif
         with:
           github_user_name: OtiliaNicola  # Tu nombre de usuario de GitHub
