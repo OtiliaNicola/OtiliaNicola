@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola 👋</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/863baa95-ffae-49aa-9f58-5eae2f7dcdfa">
+<img src="https://github.com/user-attachments/assets/3c592633-2e2c-4c09-85ae-9fdcf89fca4e">
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otilianicola/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:otilianicola94@gmail.com)
 <!--
 **OtiliaNicola/OtiliaNicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
