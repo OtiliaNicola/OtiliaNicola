@@ -48,7 +48,7 @@
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/> 
   </a> 
-   <a href="https://primeng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://primeng.org/resources/images/primeng-logo-dark.svg" alt="PrimeNG" width="40" height="40"/> 
-  </a> 
+  <a href="https://primeng.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://primefaces.org/cdn/primeng/images/primeng-logo-dark.svg" alt="PrimeNG" width="40" height="40"/> 
+  </a>
 </p>
