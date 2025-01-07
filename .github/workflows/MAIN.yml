@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Usamos el runner más reciente de Ubuntu
+    runs-on: ubuntu-22.04 # Usamos el runner más reciente de Ubuntu
 
     steps:
       # 1. Verificamos que el repositorio esté disponible
@@ -15,7 +15,7 @@ jobs:
 
       # 2. Generamos el gif y el svg de la serpiente
       - name: Generate Snake GIF and SVG
-        uses: Platane/snk@v1.0.0  # Cambié la acción a una versión más estable
+        uses: Platane/snk@v0.7.0  # Cambié la acción a una versión más estable
         id: snake-gif
         with:
           github_user_name: OtiliaNicola  # Tu nombre de usuario de GitHub
@@ -27,7 +27,7 @@ jobs:
 
       # 4. Hacemos el push de los cambios al repositorio
       - name: Push changes
-        uses: ad-m/github-push-action@v2  # Asegúrate de que la versión esté actualizada
+        uses: ad-m/github-push-action@v0.5.0  # Asegúrate de que la versión esté actualizada
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}  # El token para hacer push
           branch: output  # Empuja los cambios a la rama 'output' (esta rama debe existir o será creada automáticamente)
