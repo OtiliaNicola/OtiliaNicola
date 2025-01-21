@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola 👋</h1>
+<h1 align="center">Hello 👋</h1>
 </div>
 <img src="https://github.com/user-attachments/assets/3c592633-2e2c-4c09-85ae-9fdcf89fca4e">
 
